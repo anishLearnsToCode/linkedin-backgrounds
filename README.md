@@ -4,5 +4,5 @@
 
 
 - [DTU]()
-- [CERN](cern.jpeg)
-- [Fribourg](fribourg.jpeg)
+- [CERN](cern.jpg)
+- [Fribourg](fribourg.jpg)
